@@ -1,0 +1,9 @@
+hdfs_funds\web\components\JsInit.class
+hdfs_funds\ServletConfig.class
+hdfs_funds\web\components\JsUpdate.class
+hdfs_funds\web\components\TextLabel.class
+hdfs_funds\ResponseLogger.class
+hdfs_funds\web\views\FrontView.class
+hdfs_funds\web\components\JsComponent.class
+hdfs_funds\web\views\RootView.class
+hdfs_funds\MyApplicationModule.class
